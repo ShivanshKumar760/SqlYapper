@@ -1,4 +1,4 @@
-![MatchX Logo](https://github.com/ShivanshKumar760/matchX/blob/master/client/src/images/app-readme.png)
+![SQLYAPPER Logo](https://github.com/ShivanshKumar760/SqlYapper/blob/master/sqlyapper.png)
 # SQLYAPPER: Generate SQL Queries with GPT
 
 **SQLYAPPER** is a web application that helps users generate SQL queries using the power of GPT models. Simply provide a natural language description of the desired query, and SQLYAPPER will translate it into accurate SQL code.
